@@ -1,8 +1,8 @@
 # OpenCore config for X470 Gaming Plus + R7 3700x + 5700XT 
-![About this mac]
-(about.png)
+![About this mac](about.png)
 ## 1. System configuration details
 | Component        | Manufacturer        | Model
+| ---------------- | ------------        | -----
 | Motherboard      | MSI                 | X470 Gaming Plus
 | CPU              | AMD                 | Ryzen 7 3700X
 | RAM              | Gskill              | Trident Z RGB 2x16GB cas 14-14-14-34
