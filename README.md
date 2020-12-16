@@ -1,16 +1,17 @@
 # OpenCore config for X470 Gaming Plus + R7 3700x + 5700XT 
 ![About this mac]
-(https://github.com/cucot/OpenCoreConfiguration/blob/main/about.png)
+(about.png)
 ## 1. System configuration details
-* Motherboard: MSI X470 Gaming Plus
-* CPU: Ryzen 7 3700X
-* RAM: 2x16GB Trident Z RGB cas 14-14-14-34
-* VGA: MSI RX 5700XT Gaming X 8GB
-* SSD: PCIe Corsair MP510 240GB (Hackintosh disk)
-* SSD: Samsung PM863a 480GB
-* HDD: Toshiba 1TB
-* Cooling: Noctua NH-D15 Chromax Black
-* PSU: FSP Hexa 85+ 650w bronze
+| Component        | Manufacturer        | Model
+| Motherboard      | MSI                 | X470 Gaming Plus
+| CPU              | AMD                 | Ryzen 7 3700X
+| RAM              | Gskill              | Trident Z RGB 2x16GB cas 14-14-14-34
+| VGA              | MSI                 | RX 5700XT Gaming X 8GB
+| SSD              | Corsair             | PCIe MP510 240GB (Hackintosh disk)
+| SSD              | Samsung             | PM863a 480GB
+| HDD              | Toshiba             | DT01ACA100 1TB
+| CPU Cooler       | Noctua              | NH-D15 Chromax Black
+| PSU              | FSP                 | Hexa 85+ 650w Bronze
 ## 2. OpenCore component
 * OpenCore 0.6.4
 * Resources folder has been removed to reduce repo size. If you want to have OpenCore fancy boot menu, just download it from [Resources Folder](https://github.com/acidanthera/OcBinaryData) and add to OC folder (containing Kext, Tools, Driver...)
